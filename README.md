@@ -43,7 +43,7 @@ yarn add lcl-weapp --production
 直接通过 git 下载  源代码，并将 `dist` 目录拷贝到自己的项目中。
 
 ```bash
-git clone xxxxx
+git clone https://github.com/codernmx/lcl-weapp.git
 ```
 
 ## 使用组件
