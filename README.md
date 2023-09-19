@@ -48,7 +48,7 @@ git clone https://github.com/codernmx/lcl-weapp.git
 
 ## 使用组件
 
-以按钮组件为例，只需要在 json 文件中引入按钮对应的自定义组件即可
+以tips组件为例，只需要在 json 文件中引入按钮对应的自定义组件即可
 
 ```json
 {
